@@ -1,0 +1,6 @@
+version: v1.25.0
+language-settings: 
+    python: "3.7"
+ignore: {}
+patch: {}
+exclude: {}
