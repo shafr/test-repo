@@ -1,2 +1,4 @@
 test.txt
 16
+
+hello my friend
